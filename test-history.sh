@@ -40,7 +40,7 @@ touch "$TEST_FILE"
 # Change this number if you want a different generated history.
 RANDOM=20261005
 
-START_DATE="2026-02-01"
+START_DATE="2026-05-01"
 END_DATE="2026-09-30"
 
 current="$START_DATE"
